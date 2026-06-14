@@ -1,7 +1,7 @@
 # Mobile-Sales-Dashboard
 
 ## This Project is based on the youtube video by Mr. Satish Dhawale: [Power BI Dashboard Tutorial for Beginners – Full Project with DAX | 2025 Practice Files](https://www.youtube.com/watch?v=WH937Gc_8eg) 
-** Major Changes:
+### Major Changes:
 * Larger Data Volume
 * Creation of Dimension & Fact tables using STAR schema
 * Customer Age wise Segmentation
